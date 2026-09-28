@@ -1,0 +1,6 @@
+{
+  "name": "EcoGrid AI – Smart Energy Management System",
+  "description": "An AI/ML + IoT powered smart energy management platform predicting energy usage, detecting anomalies, and automatically optimizing building power consumption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

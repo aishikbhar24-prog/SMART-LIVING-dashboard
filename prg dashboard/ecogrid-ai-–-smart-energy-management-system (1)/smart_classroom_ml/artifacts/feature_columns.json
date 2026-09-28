@@ -1,0 +1,21 @@
+[
+  "hour_of_day",
+  "is_weekend",
+  "schedule_active",
+  "temperature_c",
+  "humidity_pct",
+  "co2_ppm",
+  "light_lux",
+  "pir_motion",
+  "noise_db",
+  "voltage_v",
+  "current_amps",
+  "thi_heat_index",
+  "co2_temp_ratio",
+  "activity_factor",
+  "apparent_power_va",
+  "co2_above_ambient",
+  "hour_sin",
+  "hour_cos",
+  "prev_occupancy"
+]
