@@ -1,4 +1,4 @@
- Smart Living
+ **Smart Living**
  
 Create solutions that make everyday life smarter, safer, more convenient, and more efficient in homes, hostels, classrooms, laboratories, campuses, or public spaces.
 Possible directions:
@@ -10,11 +10,11 @@ Possible directions:
 * Low-cost automation using Arduino, ESP32, sensors, relays, or dashboards
 
 
-CIRCUIT DIAGRAM-
+**CIRCUIT DIAGRAM**-
 
 ![image alt](https://github.com/aishikbhar24-prog/SMART-LIVING-dashboard/blob/7a80139caa776e1c302204dd9b8c21ef2b41fe10/WhatsApp%20Image%202026-09-27%20at%209.27.22%20PM.jpeg)
 
-Overview
+**Overview**-
 
 Our project is a Smart Occupancy & Energy Management System for classrooms, hostels, and laboratories.
 It uses Arduino and PIR/ultrasonic sensors to detect room occupancy and movement.
@@ -24,7 +24,7 @@ It reduces unnecessary electricity consumption and improves safety, convenience,
 The system can be further expanded for campus-wide monitoring and AI-based energy prediction.
 
 
-Features-
+**Features**-
 
 Automatic Occupancy Detection using PIR and ultrasonic sensors.
 Automatic Light and Fan Control based on room occupancy.
@@ -40,11 +40,11 @@ Future AI Integration for usage prediction and optimization.
 
 
 
-Tech Stack-
+**Tech Stack**-
 
 
 
-Hardware:
+*Hardware:
 
 
 
@@ -82,7 +82,9 @@ Piezo
 LCD 16 x 2
 
 
-Software:
+*Software:
+
+
 
 
 Arduino IDE (C/C++)
@@ -102,7 +104,8 @@ VERCEL
 
 
 
-Feasibility & Viability
+****Feasibility & Viability**-
+
 
 
 
@@ -126,7 +129,8 @@ Approx. ₹2,500-4,000 per room unit (sensors
 +arduino+ relay), scalable per deployment.
 
 
-
+****Energy and Cost Optimization:**
+   With large-scale implementation and intelligent control, the system can further reduce unnecessary electricity consumption and operational costs.
 
 
 
