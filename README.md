@@ -1,4 +1,5 @@
  Smart Living
+ 
 Create solutions that make everyday life smarter, safer, more convenient, and more efficient in homes, hostels, classrooms, laboratories, campuses, or public spaces.
 Possible directions:
 
