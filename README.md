@@ -13,5 +13,4 @@ Possible directions:
 CIRCUIT DIAGRAM
 
 
-!(image alt)(https://github.com/aishikbhar24-prog/SMART-LIVING-dashboard/blob/c0d2226111ca792e14db5a90d50eea754cda3611/WhatsApp%20Image%202026-09-27%20at%209.27.22%20PM.jpeg)
-
+<img width="1536" height="693" alt="Image" src="https://github.com/user-attachments/assets/073360c3-6e1d-4fb6-840d-72093cb569b4" /
