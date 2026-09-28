@@ -10,7 +10,7 @@ Possible directions:
 * Low-cost automation using Arduino, ESP32, sensors, relays, or dashboards
 
 
-CIRCUI DIAGRAM
+CIRCUIT DIAGRAM
 
 
 !(image alt)(https://github.com/aishikbhar24-prog/SMART-LIVING-dashboard/blob/c0d2226111ca792e14db5a90d50eea754cda3611/WhatsApp%20Image%202026-09-27%20at%209.27.22%20PM.jpeg)
